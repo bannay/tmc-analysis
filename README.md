@@ -91,7 +91,7 @@ Therefore the power delivered to the coil is
 ## Results
 <br />
   <a href="https://github.com/bannay/tmc-analysis">
-    <img src="images/result.jpg" alt="result" width="560" height="420">
+    <img src="images/result.png" alt="result" width="560" height="420">
   </a>
 <br>
 
@@ -105,7 +105,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Mohammed M. Albannay - [@Bannay](https://twitter.com/bannay) - bannay@gmail.com
 
-Project Link: [https://github.com/bannay/rigid-surfacecoil](https://github.com/bannay/rigid-surfacecoil)
+Project Link: [https://github.com/bannay/tmc-analysis](https://github.com/bannay/tmc-analysis)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
