@@ -87,6 +87,13 @@ Therefore the power delivered to the coil is
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ***
+<!-- Results -->
+## Results
+<br />
+  <a href="https://github.com/bannay/tmc-analysis">
+    <img src="images/result.jpg" alt="result" width="560" height="420">
+  </a>
+<br>
 
 <!-- LICENSE -->
 ## License
