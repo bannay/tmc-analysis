@@ -39,7 +39,7 @@ $$
 The tuning ($C_t$) and matching ($C_m$) element values are found by solving the matching conditions:
 
 $$
-B = \frac{X_A \pm \sqrt{\frac{R_A}{Z_0}} \cdot \sqrt{R_A(R_A - Z_0) + X_A^2}}}{R_A^2 + X_A^2}
+B = \frac{X_A \pm \sqrt{\frac{R_A}{Z_0}} \cdot \sqrt{R_A(R_A - Z_0) + X_A^2}}{R_A^2 + X_A^2}
 $$
 
 $$
