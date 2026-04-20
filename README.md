@@ -128,12 +128,3 @@ $$
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Project Link: [https://github.com/bannay/tmc-analysis](https://github.com/bannay/tmc-analysis)
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Readme template](https://github.com/othneildrew/Best-README-Template)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-***
